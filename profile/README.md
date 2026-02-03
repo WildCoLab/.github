@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi! Welcome to Wildlife Coexistence Lab at UBC
 
-This is the WIldCo lab Github Page
+We are a group of researchers in the Faculty of Forestry at the University of British Columbia in Vancouver, Canada. Our research is focused on human-wildlife coexistence across multiple species and scales, with a particular emphasis on large-bodied terrestrial mammals. The lab is led by Dr. Cole Burton, Associate Professor in the Department of Forest Resources Management, and Canada Research Chair in Terrestrial Mammal Conservation.
 
 <!--
 
