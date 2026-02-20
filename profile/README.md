@@ -4,6 +4,15 @@ We are a group of researchers in the Faculty of Forestry at the University of Br
 
 > The lab is led by Dr. Cole Burton, Associate Professor in the Department of Forest Resources Management, and Canada Research Chair in Terrestrial Mammal Conservation.
 
+
+### Resources
+* [WildCo Image Renamer](https://github.com/WildCoLab/ImageRenamer) 
+* [WildCo Face Blurrer](https://github.com/WildCoLab/WildCo-FaceBlur)
+* [WildCo Data Analysis](https://github.com/WildCoLab/WildCo_Data_Analysis)
+
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
